@@ -44,9 +44,10 @@
 
 ## About The Project
 
-![Angular Pipes]()
-
 Getting some practice with Angular Pipes by building a small application. Keep growing to reach those goals.
+
+Documentation for Angular Pipes:
+[Angular Pipes Docs](https://angular.io/api?type=pipe);
 
 
 ### Built With
