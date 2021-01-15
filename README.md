@@ -10,7 +10,7 @@
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Password Generator</h3>
+  <h3 align="center">Angular Pipes Practice</h3>
 
   <p align="center">
     <br />
