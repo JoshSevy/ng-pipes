@@ -50,7 +50,7 @@
     <div class="col">
       <label><b>Kilometers</b></label>
       <div>
-        {{ miles | convert: 'm' }}
+        {{ miles | convert: 'km' | number: '1.0-2' }}
       </div>
     </div>
   </div>
